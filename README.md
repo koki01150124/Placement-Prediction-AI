@@ -25,7 +25,7 @@ Kaggleの「College Student Placement Factors Dataset」を使用し、PyTorch�
 
 ## 実行結果
 - **Training Accuracy:** ~90.4%
-- **Test Accuracy:** ~89.4%
+- **Test Accuracy:** ~99.6%
 
 ### 学習曲線
 ![Train Loss & Accuracy](images/train_result.png)  
